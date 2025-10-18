@@ -10,12 +10,17 @@ This is my journal of the design and building process of **Catapult**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/680).
 
 
-## 10/18/2025 - I wanted to make somthing that has moving parts  
+## 10/18/2025 2:18 PM - I wanted to make somthing that has moving parts  
 
 it is supposed to move with rubber band but i havent done it yet i dont know what to do to make it better i sketched it allready n more maby i will use blender to make a model to make it better i don't have a 3d printer so mayby it will be one of the things as parts
 
 
 
 image randome ![Roman-torsion-arm-stone-bundle-cords-force.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--916f7a08822c5ac0e1655716ba0c9efe391df674/Roman-torsion-arm-stone-bundle-cords-force.jpg)
+  
+
+## 10/18/2025 2:22 PM - don't know what to do  
+
+how do i get the parts shipped or at least the things needed to even at least select them help maybe a link would help or at least help in words but i really need help for next steps because i'm really new to hack club or blueprint oaa of this website needed to do project it should be fun but dont know what to do.![Roman-torsion-arm-stone-bundle-cords-force.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--cacc55a3f16afc3458f63a5e4020e2716f95a74a/Roman-torsion-arm-stone-bundle-cords-force.jpg)
   
 
