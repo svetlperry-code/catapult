@@ -38,8 +38,7 @@
 
 This project is a simple, fun catapult you can build with 3D printed parts and common hardware. Perfect for learning about physics, engineering, and basic mechanical assembly.
 
-## Bill of Materials
-See [bom.csv](./bom.csv) for a complete list of required parts.
+[View the 3D catapult model](https://github.com/svetlperry-code/catapult/blob/main/catapult.stl)
 
 ## Printing & Assembly Instructions
 
