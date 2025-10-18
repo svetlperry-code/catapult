@@ -26,13 +26,9 @@
  26
  27
  28
- 29
- 30
- 31
- 32
- 33
- 34
- 
+ bom.csv
+https://github.com/svetlperry-code/catapult/commit/44895981d2244083aed7cb25e7c5e138161d8fdf
+
 
 | Part | Quantity | Material | Description |
 |------|-----------|-----------|-------------|
