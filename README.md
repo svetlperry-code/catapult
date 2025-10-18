@@ -70,3 +70,5 @@ Have ideas to improve this project? Feel free to open an issue or submit a pull 
 ## License
 MIT
 
+See [bom.csv](./bom.csv) for the complete Bill of Materials.
+
