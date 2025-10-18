@@ -33,21 +33,24 @@
  33
  34
  35
- 36
-# 3D Printed Catapult
 
-This project is a simple, fun catapult you can build with 3D printed parts and common hardware. Perfect for learning about physics, engineering, and basic mechanical assembly.
-
-[View the 3D catapult model](https://github.com/svetlperry-code/catapult/blob/main/catapult.stl)
+| Part | Quantity | Material | Description |
+|------|-----------|-----------|-------------|
+| Base plate | 1 | PLA filament (3D printed) | Stable platform for the catapult |
+| Vertical supports | 2 | PLA filament (3D printed) | Hold the spoon and pivot screw |
+| Spoon (launcher arm) | 1 | Plastic | Acts as the throwing arm |
+| Pivot screw | 1 | Metal | Allows spoon to rotate |
+| Rubber bands | 2–3 | Rubber | Provide launch tension |
+| Stop block | 1 | PLA filament (3D printed) or wood | Stops the spoon’s motion |
+| Screws (assembly) | 4–6 | Metal | Attach supports and stop block to base |
+| PLA filament | ~50 g | PLA | Material used for all printed parts |
 
 ## Printing & Assembly Instructions
 
 ### 1. 3D Printing
 - Download and print the catapult parts using PLA or ABS.
 - Recommended print settings: 20% infill, no supports needed.
-
-### 2. Gather Hardware
-- Get all items listed in [bom.csv](./bom.csv).
+.
 
 ### 3. Assembly
 - Attach the plastic spoon to the 3D printed arm.
