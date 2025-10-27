@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Catapult**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/680).
-
-
 ## 10/18/2025 2:18 PM - I wanted to make somthing that has moving parts  
 
 it is supposed to move with rubber band but i havent done it yet i dont know what to do to make it better i sketched it allready n more maby i will use blender to make a model to make it better i don't have a 3d printer so mayby it will be one of the things as parts
@@ -22,5 +18,10 @@ image randome ![Roman-torsion-arm-stone-bundle-cords-force.jpg](https://blueprin
 ## 10/18/2025 2:22 PM - don't know what to do  
 
 how do i get the parts shipped or at least the things needed to even at least select them help maybe a link would help or at least help in words but i really need help for next steps because i'm really new to hack club or blueprint oaa of this website needed to do project it should be fun but dont know what to do.![Roman-torsion-arm-stone-bundle-cords-force.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--cacc55a3f16afc3458f63a5e4020e2716f95a74a/Roman-torsion-arm-stone-bundle-cords-force.jpg)
+  
+
+## 10/27/2025 - Know what to do now! yay  
+
+i did ererything and somehow i did it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! well i guess this is so fun and not a bit bad but how do i get it shipped i need help on this part now i did all no red boxes did evrything but for now yay.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!??????????? whit what why yay.![Screenshot 2025-10-18 161437](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--cc87a2ca3f9c78befa2fcb007117054eab90c7aa/Screenshot%202025-10-18%20161437.png)
   
 
